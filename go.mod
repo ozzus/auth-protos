@@ -1,4 +1,4 @@
-module github.com/ozzus/aith-protos
+module github.com/ozzus/auth-protos
 
 go 1.25.3
 
